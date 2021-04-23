@@ -1,2 +1,3 @@
 # myfirstrepository
-This is my frist repository
+This is my first repository
+I just edited this files
